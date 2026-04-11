@@ -7,7 +7,7 @@ async def get_profile():
     return {
         "name": "Abhi Patel",
         "summary": "Master of Engineering graduate specializing in scalable web apps and AI-driven systems.",
-        "strengths": ["Full-Stack AI Engineer", "Quick Learner", "Ethics in Professionalism", "Leadership"],
+        "strengths": ["Full-Stack Developer", "Quick Learner", "Ethics in Professionalism", "Leadership"],
         "education": [
             {
                 "id": "edu-master",
